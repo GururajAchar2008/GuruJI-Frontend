@@ -1,7 +1,7 @@
 {
-  "name": "GuruJI AI",
-  "short_name": "GuruJI",
-  "description": "GuruJI AI Assistant",
+  "name": "VELKOR AI",
+  "short_name": "VELKOR AI",
+  "description": "VELKOR AI Assistant",
   "start_url": "/GuruJI-Frontend/",
   "scope": "/GuruJI-Frontend/",
   "display": "standalone",
@@ -10,12 +10,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "logo_only_logo.png",
+      "src": "logo.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "logo_only_logo.png",
+      "src": "logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
